@@ -1,0 +1,82 @@
+KROK 1: PRZYGOTOWANIE DANYCH TRENINGOWYCH
+Zanim rozpoczną się prace programistyczne, wymagane jest przygotowanie 
+pliku z danymi.
+
+  * Zadanie: Stworzenie pliku dataset.jsonl zawierającego 150-200 par 
+    Q&A według ustalonego wcześniej wzorca.
+  * Realizacja: Wykorzystanie modelu językowego do wygenerowania 
+    paczek po 10-20 pytań z docelowych kategorii kulinarnych (np. 
+    "Wymienniki japońskie", "Techniki smażenia wok", "Sprzęt").
+  * Weryfikacja: Ręczny przegląd wygenerowanych treści, odrzucenie 
+    ewentualnych błędów oraz korekta tonu wypowiedzi na bardziej 
+    surowy, a następnie dodanie ich do pliku.
+  * Cel: Uzyskanie czystego i gotowego pliku tekstowego 
+    z danymi.
+
+
+KROK 2: KONFIGURACJA ŚRODOWISKA PROGRAMISTYCZNEGO
+Dla zachowania dobrych praktyk konieczna jest organizacja i izolacja 
+obszaru roboczego.
+
+  * Zadanie: Utworzenie wirtualnego środowiska (venv) z poziomu 
+    terminala, aby zapewnić izolowany folder na projekt.
+  * Instalacja: Wykorzystanie menedżera pakietów pip do instalacji 
+    niezbędnych bibliotek, w tym Unsloth (optymalizującej zużycie 
+    pamięci VRAM i przyspieszającej trening) oraz standardowej 
+    biblioteki transformers.
+
+
+KROK 3: OPRACOWANIE SKRYPTU TRENINGOWEGO (train.py)
+Etap programistyczny obejmujący przygotowanie kodu łączącego dataset 
+z modelem bazowym.
+
+  * Wybór modelu: Wskazanie modelu bazowego z platformy Hugging Face. 
+    Rekomendowane opcje to polski model 
+    Bielik-11B-v2.3-Instruct (lub wersja 7B przy ograniczeniach 
+    pamięci) ewentualnie Llama-3-8B-Instruct.
+  * Optymalizacja: Implementacja kodu ładującego model w trybie 
+    4-bitowym (QLoRA). Pozwala to na uruchomienie modelu o 
+    rozmiarze 16 GB w budżecie 12 GB pamięci VRAM, pozostawiając 
+    zasoby na trening.
+  * Konfiguracja: Ustawienie hiperparametrów treningu, określających 
+    m.in. tempo uczenia się modelu.
+
+
+KROK 4: FINE-TUNING (TRENING MODELU)
+Faza maksymalnego obciążenia obliczeniowego karty graficznej.
+
+  * Zadanie: Uruchomienie napisanego skryptu train.py.
+  * Realizacja i monitorowanie: Wykonanie skryptu z poziomu terminala 
+    oraz obserwacja paska postępu i spadającej wartości błędu 
+    (Loss).
+  * Czas trwania: W zależności od wielkości datasetu, proces potrwa na 
+    karcie RTX 3060 od 30 minut do 2-3 godzin. Wymaga to 
+    jedynie oczekiwania na zakończenie operacji.
+
+
+KROK 5: TESTOWANIE I EWALUACJA MODELU
+Weryfikacja jakości przyswojonej wiedzy oraz zdolności 
+generalizacji.
+
+  * Zadanie: Uruchomienie testowe przetrenowanego modelu i weryfikacja 
+    jego reakcji na zapytania spoza przygotowanego datasetu.
+  * Realizacja: Napisanie i uruchomienie krótkiego skryptu 
+    chat.py.
+  * Walidacja: Wprowadzenie trudnego promptu testowego (np. 
+    "Nie mam woka ani oleju arachidowego, a chcę zrobić kurczaka 
+    Kung Pao. Co robić?"). Sukces weryfikowany jest na 
+    podstawie otrzymania konkretnej odpowiedzi w docelowym 
+    stylu.
+
+
+KROK 6: EKSPORT I KWANTYZACJA MODELU (GGUF)
+Model po treningu to zbiór adapterów LoRA, które wymagają połączenia 
+z oryginalnym modelem w jeden zoptymalizowany plik.
+
+  * Zadanie: Zapisanie wytrenowanego modelu do formatu GGUF.
+  * Realizacja: Wykorzystanie wbudowanych poleceń biblioteki Unsloth 
+    do przeprowadzenia eksportu.
+  * Cel: Format GGUF pozwoli na zoptymalizowane uruchamianie modelu 
+    na sprzęcie bez nadmiernego zużycia pamięci, a także umożliwi 
+    prostą integrację z interfejsami graficznymi (UI) lub 
+    botami.

@@ -1,0 +1,408 @@
+Użytkownik: "Tryb szefa kuchni" Chińskie
+biang biang
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kimchi
+carbonara
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sezamowy
+udon
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka
+vermicelli
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Makaron
+stir-fry
+z warzywami
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Japchae
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Makaron jak
+z chińskiego
+baru
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Orzechowy
+makaron
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Wieprzowina
+po chińsku
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka
+z krewetkami
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" OMLET
+z warzywami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" NACHOSY
+zapiekane
+z serem z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" KOLOROWE
+frytki
+warzywne z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" FRYTKI
+z batatów z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" PIEROŻKI
+z papieru
+ryżowego z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" SAJGONKI z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" SAŁATKA
+z pieczonymi
+ziemniaczkami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" SAŁATKA
+z chrupiącym
+ryżem z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" KOTLECIKI
+z kurczaka
+w panko w Airfryerze
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" SKRZYDEŁKA
+z kurczaka
+w paście bulgogi z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" WRAPY
+z kurczakiem
+i warzywami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" ŁOSOŚ
+teriyaki
+z ziemniakami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" KACZKA
+po pekińsku z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" KURCZAK SATAY
+W SOSIE ORZECHOWYM
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" MASSAMAN CURRY
+Z KURCZAKIEM
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Chińskie biang biang
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kimchi carbonara
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sezamowy udon
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka vermicelli
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Makaron stir-fry z warzywami
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Japchae
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Makaron jak z chińskiego baru
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Orzechowy makaron
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Wieprzowina po chińsku
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka z krewetkami
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Omlet z warzywami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Nachosy zapiekane z serem z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kolorowe frytki warzywne z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Frytki z batatów z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Pierożki z papieru ryżowego z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sajgonki z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka z pieczonymi ziemniaczkami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka z chrupiącym ryżem z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kotleciki z kurczaka w panko w Airfryerze
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Skrzydełka z kurczaka w paście bulgogi z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Wrapy z kurczakiem i warzywami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Łosoś teriyaki z ziemniakami z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kaczka po pekińsku z Airfryera
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kurczak satay w sosie orzechowym
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Massaman curry z kurczakiem
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Marynata do piersi z kurczaka
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Warzywa w musztardowym sosie
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Słodko-ostra sałatka z grillowanymi warzywami
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Stek z kalafiora w marynacie gochujang
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Satay z kurczaka w sosie teriyaki
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka z kwiatem bananowca
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Krewetki z ananasem i śliwkowym sosem
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Plastry karkówki w marynacie gochujang bulgogi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Stek z antrykotu w marynacie galbi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Tortilla w sosie mango-chili
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Żeberka w sosie BBQ
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Łosoś w sosie teriyaki
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Ziemniak w sosie tzatziki
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Wieprzowina w sosie bulgogi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Ostry hot pot po seczuańsku
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Makaron udon w sosie orzechowym
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Smażony makaron Chow Mein z warzywami
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Chińska zupa jajeczna
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" KFC - Korean Fried Chicken
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Ramen w 15 minut
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Bibimbap
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Crispy Tofu
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Wołowina Smażona z brokułami
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Bakłażan w sosie kimchi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Krewetki smażone z imbirem i czosnkiem
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka jak w barze u chińczyka
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kapusta pekińska na ciepło
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Karotenowa marchewka
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Japoński sernik
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Zupa z kimchi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Skrzydełka z kurczaka w sosie kimchi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Tangsuyuk słodko pikantna wieprzowina
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Wołowina w sosie bulgogi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Indyk z ryżem w sosie kimchi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Sałatka z makaronem z batatów
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Smażony kurczak po koreańsku
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Makaron z batatów z kurczakiem w sosie bulgogi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Bimbab z kurczakiem bulgogi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Tteokbokki
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kimbap
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Krewetki smażone z chorizo i pastą kimchi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Kurczak w sosie kimchi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Tarta z kimchi
+Asystent: 
+
+
+Użytkownik: "Tryb szefa kuchni" Makaron z batatów z kimchi
+Asystent: 
