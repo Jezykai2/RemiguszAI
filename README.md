@@ -3,8 +3,8 @@
 ---
 
 ##  Ekosystem Projektu (Hugging Face)
-* ** [Model GGUF (Download)](TUTAJ_WKLEJ_LINK_DO_MODELU_NA_HF)** – gotowy, skompresowany plik 8-bitowy `Remigiusz.gguf` do odpalenia w LM Studio.
-* ** [Dataset JSONL](TUTAJ_WKLEJ_LINK_DO_DATASETU_NA_HF)** – autorski zbiór danych (ChatML) użyty do nauki modelu twardej chemii kulinarnej.
+* ** [Model GGUF (Download)](https://huggingface.co/Jezyk43/Remigiusz-AI-Qwen2.5-7B-GGUF)** – gotowy, skompresowany plik 8-bitowy `Remigiusz.gguf` do odpalenia w LM Studio.
+* ** [Dataset JSONL](https://huggingface.co/datasets/Jezyk43/remigiusz-culinary-dataset-pl)** – autorski zbiór danych (ChatML) użyty do nauki modelu twardej chemii kulinarnej.
 
 ---
 
